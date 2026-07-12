@@ -7,6 +7,8 @@ Streamlit web app that ties it all together.
 
 **Dataset:** [Black Friday Sales Data](https://github.com/GeeksforgeeksDS/Data-Analysis-with-Python-GFG/blob/main/20.%20Black%20Friday%20-%20Walkthrough/BlackFriday.csv) — 537,577 rows, 12 columns (User ID, Product ID, Gender, Age, Occupation, City Category, Stay in Current City Years, Marital Status, Product Categories, Purchase amount).
 
+**Live Demo:**
+  Link: https://htwjymn8g3rrjgqpappee4v.streamlit.app/
 ---
 
 ## Contents
